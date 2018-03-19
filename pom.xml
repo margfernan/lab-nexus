@@ -1,9 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mgf</groupId>
 	<artifactId>lab-nexus</artifactId>
 	<packaging>jar</packaging>
-	<version>1.6</version>
+	<version>1.7-SNAPSHOT</version>
 	<name>lab-nexus</name>
 	<url>http://maven.apache.org</url>
 	
@@ -290,7 +291,6 @@
 	
 	<scm>
     	<developerConnection>scm:git:https://github.com/margfernan/lab-nexus</developerConnection>
-    <tag>lab-nexus-1.6</tag>
   </scm>
 	
 </project>
