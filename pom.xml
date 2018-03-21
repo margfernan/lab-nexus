@@ -3,7 +3,7 @@
 	<groupId>com.mgf</groupId>
 	<artifactId>lab-nexus</artifactId>
 	<packaging>jar</packaging>
-	<version>1.13-SNAPSHOT</version>
+	<version>1.13</version>
 	<name>lab-nexus</name>
 	<url>http://maven.apache.org</url>
 	
@@ -290,7 +290,7 @@
 	
 	<scm>
     	<developerConnection>scm:git:https://github.com/margfernan/lab-nexus</developerConnection>
-    <tag>HEAD</tag>
+    <tag>lab-nexus-1.13</tag>
   </scm>
 	
 </project>
